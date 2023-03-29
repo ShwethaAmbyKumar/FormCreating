@@ -1,5 +1,5 @@
 Create a Laravel project using composer:
-composer create-project --prefer-dist laravel/laravel contact-form
+```composer create-project --prefer-dist laravel/laravel contact-form
 
 Navigate to the project directory and install the required packages using NPM:
 cd contact-form
